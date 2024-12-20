@@ -1,0 +1,22 @@
+{
+  "name": "chat-application",
+  "version": "1.0.0",
+  "description": "Chat Application ",
+  "main": "server.ja",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reddy710/Chat-Application.git"
+  },
+  "author": "Bharath Kumar Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reddy710/Chat-Application/issues"
+  },
+  "homepage": "https://github.com/Reddy710/Chat-Application#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
